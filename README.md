@@ -1,6 +1,6 @@
 # Vue Weather App
 
-This template should help get you started developing with Vue 3 in Vite.
+Your personal weather assistant. Search for cities worldwide, view detailed weather forecasts, and save your favorites for quick access. Experience a sleek and modern design built with Vue.js and Tailwind CSS. Powered by OpenWeather API for reliable data.
 
 ## Recommended IDE Setup
 
